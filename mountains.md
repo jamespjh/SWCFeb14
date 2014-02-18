@@ -6,3 +6,4 @@ Here is a list of mountains in Cumbria:
 * Scafell Pike
 * Helvellyn
 * Scafell
+* Coniston Old Man
